@@ -1,0 +1,6 @@
+OpenGL loaded
+Vendor:          NVIDIA Corporation
+Renderer:        GeForce RTX 2070 SUPER/PCIe/SSE2
+Version OpenGL:  4.6.0 NVIDIA 455.41
+Version GLSL:    4.60 NVIDIA
+
